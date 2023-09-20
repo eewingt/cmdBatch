@@ -1,5 +1,5 @@
 @echo off        
-:: BatchGotAdmin        
+:: Run as administrator    
 :-------------------------------------        
 REM  --> Check for permissions  
 >nul 2>&1 "%SYSTEMROOT%\system32\cacls.exe" "%SYSTEMROOT%\system32\config\system"  
