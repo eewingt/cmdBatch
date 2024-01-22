@@ -13,3 +13,6 @@ create a folder with curent date and time in an external storage and copy logs
 
 # stopService
 stop a windows service
+
+# Test TNC
+Allows testing of multiple servers and open tcp ports
