@@ -15,4 +15,4 @@ create a folder with curent date and time in an external storage and copy logs
 stop a windows service
 
 # Test TNC
-Allows testing of multiple servers and open tcp ports
+Allows testing of multiple servers and open tcp ports. There are 2 files: testTNC.ps1 and runTNC.bat Copy both files to a directory and run the bat file
